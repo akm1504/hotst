@@ -2,7 +2,7 @@
 
 ALL CREDITS GOES TO THE BELOVED DEVELOPERS :)
 
-#### If you find any bugs, report to [prgofficial](https://telegram.dog/prgofficial)
+#### If you find any bugs, report to [TeleRoid](https://telegram.dog/teleroid14)
 
 ### Features
 
@@ -24,11 +24,11 @@ ALL CREDITS GOES TO THE BELOVED DEVELOPERS :)
 
 #### Deploy to Heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://www.heroku.com/deploy?template=https://github.com/prgofficial/URLuploader-With-Hotstar)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://www.heroku.com/deploy?template=https://github.com/P-Phreak/URLuploader-With-Hotstar)
 
 #### Run in your VPS
 ```sh
-git clone https://github.com/prgofficial/URLuploader-With-Hotstar
+git clone https://github.com/P-Phreak/URLuploader-With-Hotstar
 cd URLuploader-With-Hotstar
 pip3 install -r requirements.txt
 # <Create config.py appropriately>
